@@ -1,0 +1,2 @@
+# global-bot
+its good
